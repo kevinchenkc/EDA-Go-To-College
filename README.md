@@ -1,5 +1,6 @@
 # Exploratory Data Analysis - "Go To College" Dataset - Group 4
----
+<hr>
+
 Exploratory Data Analysis (EDA) ini bertujuan untuk mengeimplementasikan hasil pembelajaran sejauh ini dalam modul 2 program JCDS dengan menggunakan dataset "Go To College" oleh Saddam Sinatrya Jalu Mukti melalui [kaggle](kaggle_source). EDA ini disusun oleh Group 4 yang bergerak sebagai tim konsultan analisis data.
 
 ## "Go To College" Dataset Analysis
@@ -33,7 +34,7 @@ Hasil insight kami diperuntukkan kepada Universitas Swasta dan/atau Institusi Pe
 Pada bagian ini, kami akan menjelaskan tahapan penyajian data yang kami lakukan agar data selanjutnya bisa dianalisis.
 
 ### 1.1. Import Data
-![1.1. Import Data](Images/1.1.Import_Data.png)
+![1.1. Import Data](https://github.com/kevinchenkc/EDA-Go-To_College/blob/main/Images/1.1.Import_Data.png?raw=True)
 
 Dalam tahap ini, pertama kami mengimport libraries yang akan kami gunakan untuk project ini, yaitu _NumPy_ dan _Pandas_. Kemudian, kami menggunakan `pd.read_csv` dan `head(10)` untuk menampilkan 10 data pertama dari dataframe yang sudah kita masukkan ke variabel `df`.
 
